@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "com.railgun.sculkvisualizer.client.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "client": [
+    "VibrationSignalParticleProviderMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
