@@ -11,3 +11,7 @@ Right-click a sensor with an empty hand to toggle its display. Requires Fabric L
 - `/sculkvisualizer seethrough`: toggle see-through mode
 
 The same actions can be bound to keys under *Options > Controls > Key Binds* (unbound by default).
+
+## AI disclosure
+
+This mod was vibe coded: the code was written with AI assistance (Claude) and tested in-game by the author, who has little programming experience.
